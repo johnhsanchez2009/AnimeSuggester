@@ -1,6 +1,6 @@
 # AnimeSuggester
 
-My senior project from university. Utilizes a simple shell to allow users to search through a locally stored database of anime, create and edit a list of anime titles, and get suggestions based on how the user rates those anime on a scale of 1 to 10, with 10 being the best.
+My senior project from university, a joint project with one of my good friends. Utilizes a simple shell to allow users to search through a locally stored database of anime, create and edit a list of anime titles, and get suggestions based on how the user rates those anime on a scale of 1 to 10, with 10 being the best.
 
 List of shell commands:
 
